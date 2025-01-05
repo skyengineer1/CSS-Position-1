@@ -25,10 +25,6 @@ Welcome to **CSS Position 1**! This project demonstrates the use of CSS to creat
 
 ## 🌟 Preview
 A sleek, responsive header layout with modern design elements.
-
-## 📸 Screenshot
-Make sure to replace this section with a screenshot of your project to showcase it better!
-
 ---
 
 Made with ❤️ and CSS.
